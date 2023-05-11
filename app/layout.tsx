@@ -7,10 +7,10 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "ChatGPT Next Web",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "振知健康AI助手",
+  description: "你的健康小助手.",
   appleWebApp: {
-    title: "ChatGPT Next Web",
+    title: "振知健康AI小助手",
     statusBarStyle: "default",
   },
   themeColor: "#fafafa",
