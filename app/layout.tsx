@@ -7,10 +7,10 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "振知健康AI助手",
-  description: "你的健康小助手.",
+  title: "彩虹GPT",
+  description: "chatgpt你也可以拥有.",
   appleWebApp: {
-    title: "振知健康AI小助手",
+    title: "彩虹GPT",
     statusBarStyle: "default",
   },
   themeColor: "#fafafa",
